@@ -1,6 +1,8 @@
-# NovelScraper - 小说正文提取器
+# NovelScraper - 禁忌书屋小说提取器
 
-从 [cool18.com](https://www.cool18.com/bbs4/index.php) 提取小说正文内容，保存为 TXT 或 Markdown 文件。
+[禁忌书屋 cool18.com](https://www.cool18.com/bbs4/index.php) 专用小说正文提取工具，抓取网页小说内容并保存为 TXT 或 Markdown 文件。
+
+> ⚠️ 本工具专门针对禁忌书屋（cool18.com/bbs4）的页面结构开发，支持帖子页和书库页两种格式，不保证兼容其他网站。
 
 ## 功能
 
@@ -64,7 +66,7 @@ NovelScraper/
 └── .gitignore
 ```
 
-## 支持的页面格式
+## 支持的页面格式（禁忌书屋 cool18.com）
 
 | 页面类型 | URL 特征 | 正文位置 |
 |----------|----------|----------|
